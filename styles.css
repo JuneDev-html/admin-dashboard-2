@@ -40,11 +40,11 @@ body {
 .search-icon {
     position: absolute;
     left: -5px;
-    bottom: 18px;
-    width: 30px; 
+    bottom: 19px;
+    width: 28px; 
     background-image: url('/icons/search.png');
-    width: 30px;
-    height: 30px;
+    width: 28px;
+    height: 28px;
 }
 
 
