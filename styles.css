@@ -39,17 +39,15 @@ body {
 
 .search-icon {
     position: absolute;
-    left: 0px;
-    bottom: 11px;
-    width: 40px; 
+    left: -5px;
+    bottom: 18px;
+    width: 30px; 
     background-image: url('/icons/search.png');
     width: 30px;
     height: 30px;
 }
 
-.search-icon img {
-    
-}
+
 
 .search-bar {
     grid-column: span 2;
